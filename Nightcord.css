@@ -1,18 +1,18 @@
 /**
 * @name Nightcord
-* @author mfycode, Miya (heya puddpudd!)
+* @author mfycode, Miya (heya puddpudd!!)
 * @version 1.0
-* @description A theme made to look like the Nightcord application from Project Sekai (プロセカ)!
+* @description A theme made to look like the Nightcord UI from Project Sekai (プロセカ)!
 * @website https://mfycode.github.io
 */
 
-/*Credits to @KageMiyaku for the original theme. Thank you!*/
+/*Credits to @KageMiyaku and @Pudding77984612 for the original theme. Thank you!*/
 
 /* STATUS COLORS */
 rect[fill^="hsl(139,"] {fill: #93FFEE} /*online status color*/
 rect[fill^="hsl(38,"] {fill: #FFDD59} /*idle status color*/
 rect[fill^="hsl(359,"] {fill: #FF55AA} /*dnd status color*/
-rect[fill^="hsl(262,"] {fill: #704EA9} /*streaming  status color*/
+rect[fill^="hsl(262,"] {fill: #9491E1} /*streaming  status color*/
 rect[fill^="hsl(214,"] {fill: #DBE8F3} /*offline/invisible status color*/
 
 .description-3Cwkxk {
